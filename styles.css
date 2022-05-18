@@ -1,0 +1,23 @@
+.flex{
+    display: flex;
+}
+.top{
+    margin-top: 20px;
+    justify-content: space-between;
+}
+.clock{
+    color: black;
+    font-weight: bold;
+    font-size: 20hv;
+    margin-top: 30hv;
+}
+#clock{
+    font-weight: 300;
+    font-size: 120px;
+}
+
+.center{
+    justify-content: space-between;
+    size: 150px;
+    
+}

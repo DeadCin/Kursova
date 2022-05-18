@@ -1,0 +1,130 @@
+.clock{
+    color: white;
+    font-weight: bold;
+    font-size: 20hv;
+    margin-top: 30hv;
+    height: 500px;
+    font-weight: 400px;
+}
+
+div {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body{
+    background-image: url(istockphoto-970444880-612x612.jpg);
+    margin: 0;
+    padding: 0;
+}
+
+.top{
+    left: 50%;
+    width: 100px;
+    
+    
+}
+
+h1{
+    font-size: 80px;
+    margin-left: 40%;
+}
+
+.a1{
+    font-size: 50px;
+}
+
+.a2{
+    font-size: 25px;
+}
+
+.b1{
+    margin-left: 50px;
+}
+
+.b2{
+    margin-left: 100px;
+}
+
+
+
+.p{
+    font-size: 40px;
+    margin-left: 45%;
+}
+
+b{
+    font-size: 45px;
+}
+
+.tp{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+table{
+    width: 420px;
+    height: 380px;
+}
+
+td{
+    vertical-align: middle;
+    text-align: center;
+}
+.gray{
+    color: gray;
+}
+
+ul li{
+    list-style: none;
+}
+.flex{
+    display: flex;
+}
+.b{
+    position: absolute;
+    width: 80px;
+    font-size: 13px;
+    left: 180px;
+    top: 115px;
+    
+}
+.ft{
+    width: 200px;
+}
+
+li{
+    margin-top: 10px;
+    font-size: 15px;
+}
+
+.tabdate{
+    width: 300px;
+    position: relative;
+    float: left;
+    min-height: 1px;
+    margin-right: 4px;
+}
+
+.infoDaylight {
+    width: 138px;
+    border: 1px solid #dfdfdf;
+    border-radius: 3px;
+    color: #777;
+    font-size: 11px;
+    height: 22px;
+    line-height: 22px;
+    margin: 0 0 0 50px;
+    text-align: center;
+
+}
+
+.left{
+    margin-left: 35%;
+}
+
+.logo{
+    width: 140px;
+}
